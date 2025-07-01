@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: reactive-kt
+
+logging:
+  level:
+    root: DEBUG
