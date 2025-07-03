@@ -1,4 +1,4 @@
-package com.dustho.reactivekt.cost
+package com.dustho.reactivekt.ch1.cost
 
 import java.util.concurrent.CountDownLatch
 import java.util.concurrent.atomic.AtomicLong

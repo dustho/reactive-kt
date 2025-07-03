@@ -1,4 +1,4 @@
-package com.dustho.reactivekt.cost
+package com.dustho.reactivekt.ch1.cost
 
 import reactor.core.publisher.Flux
 import java.util.concurrent.atomic.AtomicLong

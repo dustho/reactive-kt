@@ -1,4 +1,4 @@
-package com.dustho.reactivekt.sync
+package com.dustho.reactivekt.ch1.sync
 
 import com.dustho.reactivekt.info
 import org.slf4j.Logger
